@@ -4,7 +4,8 @@ Features
 
 1) Ingest URL Content – Extract text content from a provided URL and store it for later processing.
 2) Ask Questions – Query the ingested content using natural language and receive relevant answers.
-3) FastAPI Swagger UI – Interactive API documentation at http://127.0.0.1:8000/docs.✅ Asynchronous Processing – Uses FastAPI’s async capabilities for efficient request handling.
+3) FastAPI Swagger UI – Interactive API documentation at http://127.0.0.1:8000/docs.
+4) Asynchronous Processing – Uses FastAPI’s async capabilities for efficient request handling.
 
 Tech Stack
 
